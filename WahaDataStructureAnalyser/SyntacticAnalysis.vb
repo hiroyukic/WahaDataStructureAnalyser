@@ -21,7 +21,7 @@ Public Class SyntacticAnalysis
     '全ファイル共通カウンタ
     Private intTotalLineCount As UInteger = 0
 
-    'キーワード＆プログラム・でぃくしょなりー
+    'キーワード＆プログラム・でぃくしょな りー 
     Private dict As CommonDirectory
 
     ' Directory用・関数キーワード
