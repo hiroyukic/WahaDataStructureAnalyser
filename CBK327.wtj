@@ -1,0 +1,885 @@
+[Repository]
+UserIDMax	RepositoryVersion	ProductVersion	ProductID	PathLength	OpenFlag	ComputerName	AliasNo
+2	2.4.0	2.4.0.6	CABC4-3C094-1ACCC-7E8652	42	0	KYOGP03	7
+[DBAdapter]
+UserName	TraceLog	StringEnd	ServerName	ReferUserID	ReferFlag	ProviderType	Password	OwnerID	ODBCDSN	NullString	Name	Kind	ID	FolderPath	FetchCount	DeleteSpace	DBName	CustomID	Comment	AuthIntegrated
+iwt_user	0	0	172.30.1.193		0	1	{€spd~†}	1	TDEDB		yŠâè–{”ÔzQÆSQLDB_ŒŸŠÒŒ³ƒf[ƒ^	1	18		30	0	JSPDBN004			0
+[SQLFormat]
+delimiterflag	delimiter	TimestampValueFormat2	TimestampValueFormat1	TimestampFormat	TimeValueFormat2	TimeValueFormat1	TimeFormat	StringValueFormat2	StringValueFormat1	SpecialStrOneStr	SpecialStrAsterisk	RightJoin	PrimaryError	NumberValueFormat2	NumberValueFormat1	NameSeparator	NULLValueFormat	LeftJoin	JoinFormatType	JoinFormatParentheses	JoinCondition	InnerJoin	FullOuterJoin	DefaultFlag	DateValueFormat2	DateValueFormat1	DateFormat	CompareSR	CompareSE	CompareNEQNULL	CompareNEQ	CompareLIKE	CompareGR	CompareGE	CompareESCAPE	CompareEQNULL	CompareEQ
+1	"	'}	{TS'	yyyy-mm-dd HH:MM:SS	'}	{T'	HH:MM:SS	'	'	_	%	RIGHT JOIN	2627			.	NULL	LEFT JOIN	0	0	ON	INNER JOIN	FULL JOIN	0	'}	{D'	yyyy-mm-dd	<	<=	IS NOT	<>	LIKE	>	>=	ESCAPE	IS	=
+[DBAdapter]
+UserName	TraceLog	StringEnd	ServerName	ReferUserID	ReferFlag	ProviderType	Password	OwnerID	ODBCDSN	NullString	Name	Kind	ID	FolderPath	FetchCount	DeleteSpace	DBName	CustomID	Comment	AuthIntegrated
+iwt_user	0	0	172.30.1.193		0	1	{€spd~†}	1	TDEDB		yŠâè–{”ÔzQÆSQLDB_‹Æ–±‹¤’ÊDB	1	19		30	0	IWTDBN001		Œ§•âŠ®ƒVƒXƒeƒ€‹Æ–±‹¤’ÊDBQÆ—p	0
+[SQLFormat]
+delimiterflag	delimiter	TimestampValueFormat2	TimestampValueFormat1	TimestampFormat	TimeValueFormat2	TimeValueFormat1	TimeFormat	StringValueFormat2	StringValueFormat1	SpecialStrOneStr	SpecialStrAsterisk	RightJoin	PrimaryError	NumberValueFormat2	NumberValueFormat1	NameSeparator	NULLValueFormat	LeftJoin	JoinFormatType	JoinFormatParentheses	JoinCondition	InnerJoin	FullOuterJoin	DefaultFlag	DateValueFormat2	DateValueFormat1	DateFormat	CompareSR	CompareSE	CompareNEQNULL	CompareNEQ	CompareLIKE	CompareGR	CompareGE	CompareESCAPE	CompareEQNULL	CompareEQ
+1	"	'}	{TS'	yyyy-mm-dd HH:MM:SS	'}	{T'	HH:MM:SS	'	'	_	%	RIGHT JOIN	2627			.	NULL	LEFT JOIN	0	0	ON	INNER JOIN	FULL JOIN	0	'}	{D'	yyyy-mm-dd	<	<=	IS NOT	<>	LIKE	>	>=	ESCAPE	IS	=
+[DBAdapter]
+ZeroData	UserName	UseFTP	UseAnonymous	TraceLog	StringEnd	ServerName	Separator	ReferUserID	ReferFlag	ReadLineFeed	PortNo	Path	Password	PassiveMode	OwnerID	NullString	Name	LogMode	LineFeed	Kind	ID	Header	FolderPath	Delimiter	DeleteSpace	CustomID	ConnectOption	Comment	Bom
+0		0	0	0	0		3		0	0	21	$E’†ŠÔƒtƒHƒ‹ƒ_ƒpƒX$		0	1		‰Â•Ï’·ƒeƒLƒXƒg_’†ŠÔƒtƒ@ƒCƒ‹	0	0	4	3	0		1	0			‰Â•Ï’·ƒeƒLƒXƒgƒtƒ@ƒCƒ‹A’†ŠÔƒf[ƒ^ƒtƒ@ƒCƒ‹Ši”[ƒpƒX	1
+[View]
+YPosition	XPosition	ReferUserID	ReferFlag	OwnerID	Name	Mode	ID	FileName	Comment	ColumnIDMax	CodeType	CodeCheck	AdapterOwnerID	AdapterName	AdapterID
+2	3		0	1	’èŠúˆÚŠÇ‚k‚n‚fi‚b93j	0	1	dbo.KNN0400H_C93		75	3	0	1	yŠâè–{”ÔzQÆSQLDB_ŒŸŠÒŒ³ƒf[ƒ^	18
+[Column]
+Type	Scale	RealName	Precision	Null	Name	Length	Kanji	IsDate	Index	ID	Comment
+111	0	’Ê”Ô	10	1	’Ê”Ô	10	0	0	0	1	
+111	0	Šî€“ú	8	1	Šî€“ú	8	0	0	0	2	
+111	0	ˆ—“ú	8	1	ˆ—“ú	8	0	0	0	3	
+1	0	æˆøƒR[ƒh	4	1	æˆøƒR[ƒh	4	0	0	0	4	
+1	0	ƒpƒ^[ƒ“”Ô†	1	1	ƒpƒ^[ƒ“”Ô†	1	0	0	0	5	
+1	0	æÁ‹æ•ª	1	1	æÁ‹æ•ª	1	0	0	0	6	
+1	0	æˆøŒo˜H	1	1	æˆøŒo˜H	1	0	0	0	7	
+1	0	“à•”æˆøƒR[ƒh	10	1	“à•”æˆøƒR[ƒh	10	0	0	0	8	
+111	0	¼—ïˆ—“ú	8	1	¼—ïˆ—“ú	8	0	0	0	9	
+111	0	ˆ—	8	1	ˆ—	8	0	0	0	10	
+1	0	‘€ì“XŒ§ƒR[ƒh	2	1	‘€ì“XŒ§ƒR[ƒh	2	0	0	0	11	
+1	0	‘€ì“X‚i‚`ƒR[ƒh	4	1	‘€ì“X‚i‚`ƒR[ƒh	4	0	0	0	12	
+1	0	‘€ì“XŠO•”“X•ÜƒR[ƒh	3	1	‘€ì“XŠO•”“X•ÜƒR[ƒh	3	0	0	0	13	
+1	0	æˆø“XŒ§ƒR[ƒh	2	1	æˆø“XŒ§ƒR[ƒh	2	0	0	0	14	
+1	0	æˆø“X‚i‚`ƒR[ƒh	4	1	æˆø“X‚i‚`ƒR[ƒh	4	0	0	0	15	
+1	0	æˆø“XŠO•”“X•ÜƒR[ƒh	3	1	æˆø“XŠO•”“X•ÜƒR[ƒh	3	0	0	0	16	
+111	0	æˆø“ú	8	1	æˆø“ú	8	0	0	0	17	
+111	0	ƒƒO•ªŠ„“à–ó’Ê”Ô	3	1	ƒƒO•ªŠ„“à–ó’Ê”Ô	3	0	0	0	18	
+111	0	ÅIƒŒƒR[ƒh‹æ•ª	1	1	ÅIƒŒƒR[ƒh‹æ•ª	1	0	0	0	19	
+1	0	ƒŒƒCƒAƒEƒg‚h‚c	3	1	ƒŒƒCƒAƒEƒg‚h‚c	3	0	0	0	20	
+1	0	ƒŒƒCƒAƒEƒg–¼¯•ÊƒR[ƒh	2	1	ƒŒƒCƒAƒEƒg–¼¯•ÊƒR[ƒh	2	0	0	0	21	
+1	0	‚i‚`ƒR[ƒh	4	1	‚i‚`ƒR[ƒh	4	0	0	0	22	
+1	0	“X•ÜƒR[ƒh	3	1	“X•ÜƒR[ƒh	3	0	0	0	23	
+111	0	ŒÚ‹q”Ô†	10	1	ŒÚ‹q”Ô†	10	0	0	0	24	
+111	0	‘ŠiƒR[ƒh	1	1	‘ŠiƒR[ƒh	1	0	0	0	25	
+111	0	lŠiƒR[ƒh	1	1	lŠiƒR[ƒh	1	0	0	0	26	
+1	0	‹Æ–±‹æ•ª	2	1	‹Æ–±‹æ•ª	2	0	0	0	27	
+117	0	ŒûÀ”Ô†	16	1	ŒûÀ”Ô†	16	0	0	0	28	
+111	0	ŒÚ‹q–•Á—\’è•\¦	1	1	ŒÚ‹q–•Á—\’è•\¦	1	0	0	0	29	
+111	0	ˆÚsŒÚ‹q•\¦	1	1	ˆÚsŒÚ‹q•\¦	1	0	0	0	30	
+111	0	—Z‘‰„‘Ø•\¦	1	1	—Z‘‰„‘Ø•\¦	1	0	0	0	31	
+111	0	ŒÚ‹q‘¼–‹Æ•\¦	1	1	ŒÚ‹q‘¼–‹Æ•\¦	1	0	0	0	32	
+111	0	Š¿š–¼ˆóš•s‰Â•\¦	1	1	Š¿š–¼ˆóš•s‰Â•\¦	1	0	0	0	33	
+111	0	‚o‚n‚r‘ãsŒ_–ñ•\¦	1	1	‚o‚n‚r‘ãsŒ_–ñ•\¦	1	0	0	0	34	
+111	0	‚o‚n‚r‘¦Œ_–ñ•\¦	1	1	‚o‚n‚r‘¦Œ_–ñ•\¦	1	0	0	0	35	
+111	0	—Z‘ŒÚ‹q—L•\¦	1	1	—Z‘ŒÚ‹q—L•\¦	1	0	0	0	36	
+111	0	—D‹öƒvƒƒOƒ‰ƒ€‰Á“ü•\¦	1	1	—D‹öƒvƒƒOƒ‰ƒ€‰Á“ü•\¦	1	0	0	0	37	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚P	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚P	1	0	0	0	38	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚Q	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚Q	1	0	0	0	39	
+111	0	àŒ`–‹ÆåŒ_–ñ•\¦	1	1	àŒ`–‹ÆåŒ_–ñ•\¦	1	0	0	0	40	
+111	0	àŒ`Z‘îŒ_–ñ•\¦	1	1	àŒ`Z‘îŒ_–ñ•\¦	1	0	0	0	41	
+111	0	àŒ`”N‹àŒ_–ñ•\¦	1	1	àŒ`”N‹àŒ_–ñ•\¦	1	0	0	0	42	
+111	0	Š¿š–¼İ’è–³•\¦	1	1	Š¿š–¼İ’è–³•\¦	1	0	0	0	43	
+111	0	¢‘Ñå•\¦	1	1	¢‘Ñå•\¦	1	0	0	0	44	
+111	0	ˆ×‘Ö©“®‹@Œ¸–Æ•\¦	1	1	ˆ×‘Ö©“®‹@Œ¸–Æ•\¦	1	0	0	0	45	
+111	0	©‘îZŠ˜A‘±•\¦	1	1	©‘îZŠ˜A‘±•\¦	1	0	0	0	46	
+111	0	˜A—æZŠ˜A‘±•\¦	1	1	˜A—æZŠ˜A‘±•\¦	1	0	0	0	47	
+111	0	‘ã•\Ò–¼˜A‘±•\¦	1	1	‘ã•\Ò–¼˜A‘±•\¦	1	0	0	0	48	
+111	0	˜A—æZŠ—L•\¦	1	1	˜A—æZŠ—L•\¦	1	0	0	0	49	
+111	0	–{lŠm”Fó‘Ô•\¦	1	1	–{lŠm”Fó‘Ô•\¦	1	0	0	0	50	
+111	0	˜Vlƒ}ƒ‹—D“™”p~•\¦	1	1	˜Vlƒ}ƒ‹—D“™”p~•\¦	1	0	0	0	51	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚R	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚R	1	0	0	0	52	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚S	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚S	1	0	0	0	53	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚T	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚T	1	0	0	0	54	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚U	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚U	1	0	0	0	55	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚V	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚V	1	0	0	0	56	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚W	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚W	1	0	0	0	57	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚X	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚X	1	0	0	0	58	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚O	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚O	1	0	0	0	59	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚P	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚P	1	0	0	0	60	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚Q	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚Q	1	0	0	0	61	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚R	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚R	1	0	0	0	62	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚S	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚S	1	0	0	0	63	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚T	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚T	1	0	0	0	64	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚U	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚U	1	0	0	0	65	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚V	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚V	1	0	0	0	66	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚W	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚W	1	0	0	0	67	
+111	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚X	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚X	1	0	0	0	68	
+1	0	ˆÚŠÇæŠO•”“X•ÜƒR[ƒh	3	1	ˆÚŠÇæŠO•”“X•ÜƒR[ƒh	3	0	0	0	69	
+111	0	ˆÚŠÇæŠO•”ŒûÀ”Ô†	11	1	ˆÚŠÇæŠO•”ŒûÀ”Ô†	11	0	0	0	70	
+111	0	’èŠú’™‹àŒûÀŠÇ—Œ³’ î•ñæ“¾—L–³‹æ•ª	1	1	’èŠú’™‹àŒûÀŠÇ—Œ³’ î•ñæ“¾—L–³‹æ•ª	1	0	0	0	71	
+111	0	•\–Êc‚	13	1	•\–Êc‚	13	0	0	0	72	
+111	0	‰ÛÅƒR[ƒh	2	1	‰ÛÅƒR[ƒh	2	0	0	0	73	
+111	0	”ñ‰ÛÅŒÀ“xŠz	7	1	”ñ‰ÛÅŒÀ“xŠz	7	0	0	0	74	
+[View]
+YPosition	XPosition	ReferUserID	ReferFlag	OwnerID	Name	Mode	ID	FileName	Comment	ColumnIDMax	CodeType	CodeCheck	AdapterOwnerID	AdapterName	AdapterID
+5	3		0	1	’èŠú”}‘Ì•ÏX—İÏ‚e	0	2	dbo.TCBKD300_’èŠú”}‘Ì•ÏX—İÏƒtƒ@ƒCƒ‹	’èŠú”}‘Ì•ÏX—İÏƒtƒ@ƒCƒ‹	11	3	0	1	yŠâè–{”ÔzQÆSQLDB_‹Æ–±‹¤’ÊDB	19
+[Column]
+Type	Scale	RealName	Precision	Null	Name	Length	Kanji	IsDate	Index	ID	Comment
+111	0	Šî€“ú	8	0	Šî€“ú	8	0	0	0	1	
+111	0	ì¬“ú	8	0	ì¬“ú	8	0	0	0	2	
+1	0	‚i‚`ƒR[ƒh	4	0	‚i‚`ƒR[ƒh	4	0	0	0	3	
+1	0	“X•ÜƒR[ƒh	3	0	“X•ÜƒR[ƒh	3	0	0	0	4	
+111	0	•ÏX‘OŒûÀ”Ô†	8	0	•ÏX‘OŒûÀ”Ô†	8	0	0	0	5	
+111	0	•ÏX‘O—a“ü–¾×”Ô†	5	0	•ÏX‘O—a“ü–¾×”Ô†	5	0	0	0	6	
+111	0	•ÏXŒãŒûÀ”Ô†	8	0	•ÏXŒãŒûÀ”Ô†	8	0	0	0	7	
+111	0	•ÏXŒã—a“ü–¾×”Ô†	5	0	•ÏXŒã—a“ü–¾×”Ô†	5	0	0	0	8	
+111	0	d—vˆóü•¨”Ô†	4	0	d—vˆóü•¨”Ô†	4	0	0	0	9	
+1	0	”}‘Ì•ÏXÄ”­s¯•Ê	2	0	”}‘Ì•ÏXÄ”­s¯•Ê	2	0	0	0	10	
+[View]
+YPosition	XPosition	ReferUserID	ReferFlag	OwnerID	Name	Mode	ID	FileName	Comment	ColumnIDMax	CodeType	CodeCheck	AdapterOwnerID	AdapterName	AdapterID
+5	7		0	1	’èŠú”}‘Ì•ÏX—İÏ‚e_’Šo	2	3	CBK327MX_001_’èŠú”}‘Ì•ÏX—İÏ‚e.csv	’èŠú”}‘Ì•ÏX—İÏƒtƒ@ƒCƒ‹	11	3	0	1	‰Â•Ï’·ƒeƒLƒXƒg_’†ŠÔƒtƒ@ƒCƒ‹	3
+[Column]
+Type	Scale	RealName	Precision	Null	Name	Length	Kanji	IsDate	Index	ID	Comment
+108	0	Šî€“ú	8	0	Šî€“ú	8	0	0	0	1	
+108	0	ì¬“ú	8	0	ì¬“ú	8	0	0	0	2	
+1	0	‚i‚`ƒR[ƒh	4	0	‚i‚`ƒR[ƒh	4	0	0	0	3	
+1	0	“X•ÜƒR[ƒh	3	0	“X•ÜƒR[ƒh	3	0	0	0	4	
+108	0	•ÏX‘OŒûÀ”Ô†	8	0	•ÏX‘OŒûÀ”Ô†	8	0	0	0	5	
+108	0	•ÏX‘O—a“ü–¾×”Ô†	5	0	•ÏX‘O—a“ü–¾×”Ô†	5	0	0	0	6	
+108	0	•ÏXŒãŒûÀ”Ô†	8	0	•ÏXŒãŒûÀ”Ô†	8	0	0	0	7	
+108	0	•ÏXŒã—a“ü–¾×”Ô†	5	0	•ÏXŒã—a“ü–¾×”Ô†	5	0	0	0	8	
+108	0	d—vˆóü•¨”Ô†	4	0	d—vˆóü•¨”Ô†	4	0	0	0	9	
+1	0	”}‘Ì•ÏXÄ”­s¯•Ê	2	0	”}‘Ì•ÏXÄ”­s¯•Ê	2	0	0	0	10	
+[View]
+YPosition	XPosition	ReferUserID	ReferFlag	OwnerID	Name	Mode	ID	FileName	Comment	ColumnIDMax	CodeType	CodeCheck	AdapterOwnerID	AdapterName	AdapterID
+2	7		0	1	’èŠúˆÚŠÇ‚k‚n‚fi‚b93jQ’Šo	2	4	CBK327M0_001_’èŠúˆÚŠÇ‚k‚n‚fi‚b93j.csv		75	3	0	1	‰Â•Ï’·ƒeƒLƒXƒg_’†ŠÔƒtƒ@ƒCƒ‹	3
+[Column]
+Type	Scale	RealName	Precision	Null	Name	Length	Kanji	IsDate	Index	ID	Comment
+108	0	’Ê”Ô	10	1	’Ê”Ô	10	0	0	0	1	
+108	0	Šî€“ú	8	1	Šî€“ú	8	0	0	0	2	
+108	0	ˆ—“ú	8	1	ˆ—“ú	8	0	0	0	3	
+1	0	æˆøƒR[ƒh	4	1	æˆøƒR[ƒh	4	0	0	0	4	
+1	0	ƒpƒ^[ƒ“”Ô†	1	1	ƒpƒ^[ƒ“”Ô†	1	0	0	0	5	
+1	0	æÁ‹æ•ª	1	1	æÁ‹æ•ª	1	0	0	0	6	
+1	0	æˆøŒo˜H	1	1	æˆøŒo˜H	1	0	0	0	7	
+1	0	“à•”æˆøƒR[ƒh	10	1	“à•”æˆøƒR[ƒh	10	0	0	0	8	
+108	0	¼—ïˆ—“ú	8	1	¼—ïˆ—“ú	8	0	0	0	9	
+108	0	ˆ—	8	1	ˆ—	8	0	0	0	10	
+1	0	‘€ì“XŒ§ƒR[ƒh	2	1	‘€ì“XŒ§ƒR[ƒh	2	0	0	0	11	
+1	0	‘€ì“X‚i‚`ƒR[ƒh	4	1	‘€ì“X‚i‚`ƒR[ƒh	4	0	0	0	12	
+1	0	‘€ì“XŠO•”“X•ÜƒR[ƒh	3	1	‘€ì“XŠO•”“X•ÜƒR[ƒh	3	0	0	0	13	
+1	0	æˆø“XŒ§ƒR[ƒh	2	1	æˆø“XŒ§ƒR[ƒh	2	0	0	0	14	
+1	0	æˆø“X‚i‚`ƒR[ƒh	4	1	æˆø“X‚i‚`ƒR[ƒh	4	0	0	0	15	
+1	0	æˆø“XŠO•”“X•ÜƒR[ƒh	3	1	æˆø“XŠO•”“X•ÜƒR[ƒh	3	0	0	0	16	
+108	0	æˆø“ú	8	1	æˆø“ú	8	0	0	0	17	
+108	0	ƒƒO•ªŠ„“à–ó’Ê”Ô	3	1	ƒƒO•ªŠ„“à–ó’Ê”Ô	3	0	0	0	18	
+108	0	ÅIƒŒƒR[ƒh‹æ•ª	1	1	ÅIƒŒƒR[ƒh‹æ•ª	1	0	0	0	19	
+1	0	ƒŒƒCƒAƒEƒg‚h‚c	3	1	ƒŒƒCƒAƒEƒg‚h‚c	3	0	0	0	20	
+1	0	ƒŒƒCƒAƒEƒg–¼¯•ÊƒR[ƒh	2	1	ƒŒƒCƒAƒEƒg–¼¯•ÊƒR[ƒh	2	0	0	0	21	
+1	0	‚i‚`ƒR[ƒh	4	1	‚i‚`ƒR[ƒh	4	0	0	0	22	
+1	0	“X•ÜƒR[ƒh	3	1	“X•ÜƒR[ƒh	3	0	0	0	23	
+108	0	ŒÚ‹q”Ô†	10	1	ŒÚ‹q”Ô†	10	0	0	0	24	
+108	0	‘ŠiƒR[ƒh	1	1	‘ŠiƒR[ƒh	1	0	0	0	25	
+108	0	lŠiƒR[ƒh	1	1	lŠiƒR[ƒh	1	0	0	0	26	
+1	0	‹Æ–±‹æ•ª	2	1	‹Æ–±‹æ•ª	2	0	0	0	27	
+108	0	ŒûÀ”Ô†	16	1	ŒûÀ”Ô†	16	0	0	0	28	
+108	0	ŒÚ‹q–•Á—\’è•\¦	1	1	ŒÚ‹q–•Á—\’è•\¦	1	0	0	0	29	
+108	0	ˆÚsŒÚ‹q•\¦	1	1	ˆÚsŒÚ‹q•\¦	1	0	0	0	30	
+108	0	—Z‘‰„‘Ø•\¦	1	1	—Z‘‰„‘Ø•\¦	1	0	0	0	31	
+108	0	ŒÚ‹q‘¼–‹Æ•\¦	1	1	ŒÚ‹q‘¼–‹Æ•\¦	1	0	0	0	32	
+108	0	Š¿š–¼ˆóš•s‰Â•\¦	1	1	Š¿š–¼ˆóš•s‰Â•\¦	1	0	0	0	33	
+108	0	‚o‚n‚r‘ãsŒ_–ñ•\¦	1	1	‚o‚n‚r‘ãsŒ_–ñ•\¦	1	0	0	0	34	
+108	0	‚o‚n‚r‘¦Œ_–ñ•\¦	1	1	‚o‚n‚r‘¦Œ_–ñ•\¦	1	0	0	0	35	
+108	0	—Z‘ŒÚ‹q—L•\¦	1	1	—Z‘ŒÚ‹q—L•\¦	1	0	0	0	36	
+108	0	—D‹öƒvƒƒOƒ‰ƒ€‰Á“ü•\¦	1	1	—D‹öƒvƒƒOƒ‰ƒ€‰Á“ü•\¦	1	0	0	0	37	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚P	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚P	1	0	0	0	38	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚Q	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚Q	1	0	0	0	39	
+108	0	àŒ`–‹ÆåŒ_–ñ•\¦	1	1	àŒ`–‹ÆåŒ_–ñ•\¦	1	0	0	0	40	
+108	0	àŒ`Z‘îŒ_–ñ•\¦	1	1	àŒ`Z‘îŒ_–ñ•\¦	1	0	0	0	41	
+108	0	àŒ`”N‹àŒ_–ñ•\¦	1	1	àŒ`”N‹àŒ_–ñ•\¦	1	0	0	0	42	
+108	0	Š¿š–¼İ’è–³•\¦	1	1	Š¿š–¼İ’è–³•\¦	1	0	0	0	43	
+108	0	¢‘Ñå•\¦	1	1	¢‘Ñå•\¦	1	0	0	0	44	
+108	0	ˆ×‘Ö©“®‹@Œ¸–Æ•\¦	1	1	ˆ×‘Ö©“®‹@Œ¸–Æ•\¦	1	0	0	0	45	
+108	0	©‘îZŠ˜A‘±•\¦	1	1	©‘îZŠ˜A‘±•\¦	1	0	0	0	46	
+108	0	˜A—æZŠ˜A‘±•\¦	1	1	˜A—æZŠ˜A‘±•\¦	1	0	0	0	47	
+108	0	‘ã•\Ò–¼˜A‘±•\¦	1	1	‘ã•\Ò–¼˜A‘±•\¦	1	0	0	0	48	
+108	0	˜A—æZŠ—L•\¦	1	1	˜A—æZŠ—L•\¦	1	0	0	0	49	
+108	0	–{lŠm”Fó‘Ô•\¦	1	1	–{lŠm”Fó‘Ô•\¦	1	0	0	0	50	
+108	0	˜Vlƒ}ƒ‹—D“™”p~•\¦	1	1	˜Vlƒ}ƒ‹—D“™”p~•\¦	1	0	0	0	51	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚R	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚R	1	0	0	0	52	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚S	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚S	1	0	0	0	53	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚T	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚T	1	0	0	0	54	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚U	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚U	1	0	0	0	55	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚V	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚V	1	0	0	0	56	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚W	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚W	1	0	0	0	57	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚O‚X	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚O‚X	1	0	0	0	58	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚O	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚O	1	0	0	0	59	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚P	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚P	1	0	0	0	60	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚Q	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚Q	1	0	0	0	61	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚R	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚R	1	0	0	0	62	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚S	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚S	1	0	0	0	63	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚T	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚T	1	0	0	0	64	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚U	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚U	1	0	0	0	65	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚V	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚V	1	0	0	0	66	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚W	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚W	1	0	0	0	67	
+108	0	‚e‚h‚k‚k‚d‚qQ‚O‚P‚X	1	1	‚e‚h‚k‚k‚d‚qQ‚O‚P‚X	1	0	0	0	68	
+1	0	ˆÚŠÇæŠO•”“X•ÜƒR[ƒh	3	1	ˆÚŠÇæŠO•”“X•ÜƒR[ƒh	3	0	0	0	69	
+108	0	ˆÚŠÇæŠO•”ŒûÀ”Ô†	11	1	ˆÚŠÇæŠO•”ŒûÀ”Ô†	11	0	0	0	70	
+108	0	’èŠú’™‹àŒûÀŠÇ—Œ³’ î•ñæ“¾—L–³‹æ•ª	1	1	’èŠú’™‹àŒûÀŠÇ—Œ³’ î•ñæ“¾—L–³‹æ•ª	1	0	0	0	71	
+108	0	•\–Êc‚	13	1	•\–Êc‚	13	0	0	0	72	
+108	0	‰ÛÅƒR[ƒh	2	1	‰ÛÅƒR[ƒh	2	0	0	0	73	
+108	0	”ñ‰ÛÅŒÀ“xŠz	7	1	”ñ‰ÛÅŒÀ“xŠz	7	0	0	0	74	
+[View]
+YPosition	XPosition	ReferUserID	ReferFlag	OwnerID	Name	Mode	ID	FileName	Comment	ColumnIDMax	CodeType	CodeCheck	AdapterOwnerID	AdapterName	AdapterID
+5	11		0	1	•¡‡æˆø’†ŠÔ‚e1	2	5	CBK327MX_001_•¡‡æˆø’†ŠÔF1.csv	’èŠú”}‘Ì•ÏX—İÏƒtƒ@ƒCƒ‹	20	3	0	1	‰Â•Ï’·ƒeƒLƒXƒg_’†ŠÔƒtƒ@ƒCƒ‹	3
+[Column]
+Type	Scale	RealName	Precision	Null	Name	Length	Kanji	IsDate	Index	ID	Comment
+108	0	Šî€“ú	8	0	Šî€“ú	8	0	0	0	1	
+108	0	ì¬“ú	8	0	ì¬“ú	8	0	0	0	2	
+1	0	‚i‚`ƒR[ƒh	4	0	‚i‚`ƒR[ƒh	4	0	0	0	3	
+1	0	“X•ÜƒR[ƒh	3	0	“X•ÜƒR[ƒh	3	0	0	0	4	
+108	0	•ÏX‘OŒûÀ”Ô†	8	0	•ÏX‘OŒûÀ”Ô†	8	0	0	0	5	
+108	0	•ÏX‘O—a“ü–¾×”Ô†	5	0	•ÏX‘O—a“ü–¾×”Ô†	5	0	0	0	6	
+108	0	•ÏXŒãŒûÀ”Ô†	8	0	•ÏXŒãŒûÀ”Ô†	8	0	0	0	7	
+108	0	•ÏXŒã—a“ü–¾×”Ô†	5	0	•ÏXŒã—a“ü–¾×”Ô†	5	0	0	0	8	
+108	0	d—vˆóü•¨”Ô†	4	0	d—vˆóü•¨”Ô†	4	0	0	0	9	
+1	0	”}‘Ì•ÏXÄ”­s¯•Ê	2	0	”}‘Ì•ÏXÄ”­s¯•Ê	2	0	0	0	10	
+108	0		8	0	¼—ïˆ—“ú	8	1	0	0	19	
+1	0		4	1	ˆÚŠÇ‚k‚n‚fQ‚i‚`ƒR[ƒh	4	1	0	0	12	
+1	0		3	1	ˆÚŠÇ‚k‚n‚fQ“X•ÜƒR[ƒh	3	1	0	0	13	
+108	0		10	1	ˆÚŠÇ‚k‚n‚fQŒÚ‹q”Ô†	10	1	0	0	14	
+1	0		3	1	ˆÚŠÇ‚k‚n‚fQˆÚŠÇæŠO•”“X•ÜƒR[ƒh	3	1	0	0	15	
+108	0		11	1	ˆÚŠÇ‚k‚n‚fQˆÚŠÇæŠO•”ŒûÀ”Ô†	11	1	0	0	16	
+[Job]
+WarningLevel	ViewIDMax	VFilterIDMax	UpdateTime	TimeOut	TagBoxIDMax	SystemGaijiFileFlag	SortSize	SortMemFlag	ReferUserID	ReferFlag	PipeMemSize	OwnerID	Name	ID	DebugFlag	Comment
+3	9	6	20181130113524	0	261	1	64000	0		0	1024	1	CBK327MX_001_•¡‡æˆø‚ÌŠm”F(Šâ)	14	0	
+[GaijiFile]
+[CodeCheckFile]
+[TagBoxs]
+Width	Top	Name	Left	ID	Height	Comment
+2170	70		140	1	280	y•¡‡æˆø‚ÌŠm”Fz
+5390	140		2100	15	770	ƒWƒ‡ƒuÀs‘O‚ÉˆÈ‰º‚ÌŠÂ‹«•Ï”‚ğİ’è‚·‚éB\r\n@@EŒ––Šî€“ú= $EŒ––Šî€“ú$\r\n@@EŒ––Šî€“ú‚ÌŒ‰“ú= $EŒ––Šî€“ú‚ÌŒ‰“ú$
+2590	4340		5740	16	630	¦•¡‡æˆø’†ŠÔ‚e‚P‚Éƒf[ƒ^‚ª‘¶İ‚·‚ê‚Î•¡‡æˆøu—Lv
+2380	4410		1610	171	1050	©ŒŸŠÒŒ³ƒf[ƒ^ dbo.KNN0400H_C82\r\n dbo.KNN0400H_C83\r\n dbo.KNN0400H_C85
+1400	3990		210	196	700	dbo.TCBKD300_’èŠú”}‘Ì•ÏX—İÏƒtƒ@ƒCƒ‹
+2380	490		70	212	560	ŒŸŠÒŒ³ƒf[ƒ^idbo.KNN0400H_C93j
+[VFilter]
+YPosition	XPosition	WriteSkipRecCount	SortSize	SCondIDMax	ReadSkipRecCount	Name	Kind	IsWriteSkipStop	IsWriteSkipRecToFile	IsWriteSkip	IsReadSkipStop	IsReadSkipRecToFile	IsReadSkip	ID	DebugFlag	Comment	CFilterIDMax
+5	5	1	0	8	1	’èŠú”}‘Ì•ÏX‚e“–Œ•ª’Šo	0	0	0	0	0	0	0	1	0	“–Œˆ—•ª‚ğ’Šo‚·‚éB	11
+[ViewInfo]
+ViewKind	ViewID	UseCommit	TransactionTimeout	IsoLevel	Info	CommitCount
+0	2	0	0	0	0	0
+1	3	1	0	1	0	0
+[SelectCondition]
+ViewID	ValueType	Value	Operator	Name	JoinOperator	IsTree	IsRoot	ID	Comment	ColumnID	ChildIDs
+2	0		0		1	1	1	7		0	5,6
+2	7	$EŒ––Šî€“ú‚ÌŒ‰“ú$	5		0	0	0	5		1	0
+2	7	$EŒ––Šî€“ú$	4		0	0	0	6		1	0
+[SortColumn]
+ViewID	ID	Direction
+2	5	0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	1		1		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	1	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	2		2		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	2	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	3		3		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		1	0	0	1		0	3	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	4		4		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		1	0	0	1		0	4	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	5		5		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	5	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	6		6		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	6	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	7		7		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	7	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	8		8		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	8	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	9		9		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		2	0	0	1		0	9	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+3	10		10		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+2	0		1	0	0	1		0	10	1	1		0
+[VFilter]
+YPosition	XPosition	WriteSkipRecCount	SortSize	SCondIDMax	ReadSkipRecCount	Name	Kind	IsWriteSkipStop	IsWriteSkipRecToFile	IsWriteSkip	IsReadSkipStop	IsReadSkipRecToFile	IsReadSkip	ID	DebugFlag	Comment	CFilterIDMax
+2	5	1	0	17	1	’èŠúˆÚŠÇƒƒO“–Œ•ª’Šo	0	0	0	0	0	0	0	2	0		75
+[ViewInfo]
+ViewKind	ViewID	UseCommit	TransactionTimeout	IsoLevel	Info	CommitCount
+0	1	0	0	0	0	0
+1	4	1	0	1	0	0
+[SelectCondition]
+ViewID	ValueType	Value	Operator	Name	JoinOperator	IsTree	IsRoot	ID	Comment	ColumnID	ChildIDs
+1	0		0		1	1	1	16		0	14,15
+1	7	$EŒ––Šî€“ú‚ÌŒ‰“ú$	5		0	0	0	14		17	0
+1	7	$EŒ––Šî€“ú$	4		0	0	0	15		17	0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	1		1		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	1	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	2		2		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	2	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	3		3		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	3	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	4		4		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	4	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	5		5		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	5	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	6		6		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	6	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	7		7		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	7	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	8		8		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	8	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	9		9		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	9	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	10		10		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	10	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	11		11		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	11	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	12		12		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	12	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	13		13		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	13	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	14		14		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	14	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	15		15		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	15	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	16		16		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	16	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	17		17		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	17	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	18		18		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	18	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	19		19		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	19	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	20		20		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	20	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	21		21		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	21	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	22		22		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	22	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	23		23		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	23	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	24		24		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	24	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	25		25		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	25	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	26		26		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	26	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	27		27		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	27	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	28		28		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	28	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	29		29		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	29	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	30		30		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	30	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	31		31		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	31	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	32		32		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	32	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	33		33		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	33	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	34		34		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	34	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	35		35		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	35	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	36		36		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	36	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	37		37		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	37	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	38		38		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	38	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	39		39		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	39	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	40		40		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	40	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	41		41		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	41	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	42		42		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	42	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	43		43		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	43	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	44		44		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	44	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	45		45		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	45	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	46		46		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	46	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	47		47		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	47	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	48		48		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	48	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	49		49		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	49	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	50		50		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	50	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	51		51		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	51	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	52		52		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	52	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	53		53		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	53	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	54		54		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	54	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	55		55		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	55	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	56		56		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	56	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	57		57		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	57	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	58		58		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	58	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	59		59		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	59	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	60		60		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	60	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	61		61		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	61	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	62		62		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	62	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	63		63		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	63	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	64		64		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	64	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	65		65		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	65	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	66		66		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	66	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	67		67		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	67	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	68		68		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	68	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	69		69		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		1	0	0	1		0	69	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	70		70		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	70	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	71		71		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	71	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	72		72		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	72	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	73		73		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	73	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+4	74		74		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+1	0		2	0	0	1		0	74	1	1		0
+[VFilter]
+YPosition	XPosition	WriteSkipRecCount	SortSize	SCondIDMax	ReadSkipRecCount	Name	Kind	JoinType	IsWriteSkipStop	IsWriteSkipRecToFile	IsWriteSkip	IsReadSkipStop	IsReadSkipRecToFile	IsReadSkip	ID	DebugFlag	Comment	CFilterIDMax
+5	9	1	0	1	1	Œ‹‡1	1	0	0	0	0	0	0	0	3	0	ŒûÀ”Ô†‚ÅŒ‹‡i”}‘Ì•ÏX‘O‚ÌŒûÀ”Ô†j	18
+[ViewInfo]
+ViewKind	ViewID	UseCommit	TransactionTimeout	IsoLevel	Info	CommitCount
+0	3	0	0	0	1	0
+0	4	0	0	0	1	0
+1	5	1	0	1	0	0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	1		1		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	1	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	2		2		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	2	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	3		3		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		1	0	0	1		0	3	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	4		4		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		1	0	0	1		0	4	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	5		5		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	5	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	6		6		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	6	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	7		7		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	7	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	8		8		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	8	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	9		9		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		2	0	0	1		0	9	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	10		10		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+3	0		1	0	0	1		0	10	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	19		17		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+4	0		2	0	0	1		0	9	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	12		11		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+4	0		1	0	0	1		0	22	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	13		12		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+4	0		1	0	0	1		0	23	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	14		13		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+4	0		2	0	0	1		0	24	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	15		14		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+4	0		1	0	0	1		0	69	1	1		0
+[CFilter]
+OutViewID	OutColID	Name	ID	Comment	CFValueIDMax
+5	16		15		2
+[CFValue]
+ViewID	ValueType	Value	SetValueType	SFType	RealValueType	ObjType	Name	LookupInfoID	LinkColID	IsRoot	ID	Comment	ChildIDs
+4	0		2	0	0	1		0	70	1	1		0
+[JoinInfo]
+RViewID	LViewID	Connection
+4	3	0
+[JoinColInfo]
+RColID	LColID
+28	5
+[ViewPosition]
+YPosition	XPosition	Width	ID	Height
+75	225	2355	3	3420
+75	2990	2250	4	3420
